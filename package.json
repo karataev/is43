@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/karataev/is43.git"
   },
-  "author": "",
+  "author": "Eugene Karataev <eugene.karataev@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/karataev/is43/issues"
