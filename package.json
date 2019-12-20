@@ -1,0 +1,22 @@
+{
+  "name": "is43",
+  "version": "1.0.0",
+  "description": "Check if a value is 43",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karataev/is43.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karataev/is43/issues"
+  },
+  "homepage": "https://github.com/karataev/is43#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
